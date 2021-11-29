@@ -8,5 +8,6 @@ public class Demo01 {
         System.out.println("即将让master跟hot-fix第一次合并");
         System.out.println("使用hot-fix 写的第一句话");
         System.out.println("使用master-fix 写的第二句话");
+        System.out.println("使用hot-fix 写的第二句话");
     }
 }
